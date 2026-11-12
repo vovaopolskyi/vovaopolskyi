@@ -1,10 +1,4 @@
-# Hi, I'm Volodymyr 👋
-
-### Aspiring AWS Cloud & AI Engineer
-
-I'm passionate about cloud computing, generative AI, and software development. I enjoy learning through hands-on projects and building practical cloud-native applications.
-
-My current focus is on **AWS, Python, Amazon Bedrock, AI agents, and Infrastructure as Code**.
+# AWS Cloud & AI Engineering
 
 ## 🛠️ Tech Stack
 
@@ -12,35 +6,43 @@ My current focus is on **AWS, Python, Amazon Bedrock, AI agents, and Infrastruct
 
 **AI Engineering:** Amazon Bedrock, Strands Agents SDK, Generative AI, AI Agents
 
-**Programming & Development:** Python, C#, .NET, Angular, TypeScript
+**Programming:** Python, C#, .NET, TypeScript
 
-**Tools:** Git, GitHub, VS Code
+**Frontend:** Angular
+
+**Development Tools:** Git, GitHub, VS Code
 
 ## 🚀 Featured Projects
 
 ### [AWS AI Certification Study Coach Agent](https://github.com/vovaopolskyi/AWS-Study-Coach-agent)
 
-An AI-powered study assistant built using Python, Strands Agents SDK, and Amazon Bedrock.
+AI agent project developed with Python, Amazon Bedrock, and Strands Agents SDK.
 
-- Implemented local agent execution and Bedrock inference.
-- Verified real Python tool calling.
-- Working toward deployment on Amazon Bedrock AgentCore Runtime.
+- Amazon Bedrock foundation model integration
+- Strands agent orchestration and Python tool calling
+- Local agent execution and testing
+- Amazon Bedrock AgentCore Runtime deployment (in progress)
 
-**Technologies:** Python, AWS, Amazon Bedrock, Strands Agents SDK, AgentCore
+**Tech:** Python · AWS · Amazon Bedrock · Strands Agents · AgentCore
 
 ### [Restaurant Workshops](https://github.com/vovaopolskyi/restaurant-workshops)
 
-A full-stack restaurant application featuring reservation and ordering workflows, built using Angular, .NET, and AWS.
+Full-stack restaurant application featuring reservation and ordering workflows.
 
-**Technologies:** Angular, C#, .NET, AWS, Terraform
+- Angular frontend
+- .NET backend
+- AWS cloud infrastructure
+- Terraform Infrastructure as Code
+
+**Tech:** Angular · C# · .NET · AWS · Terraform
 
 ## 📚 Currently Learning
 
-- AWS cloud architecture and security
-- Generative AI and agentic systems
-- Amazon Bedrock and AgentCore
-- Infrastructure as Code and cloud deployment
+- AWS Cloud Architecture & Security
+- Generative AI & AI Agents
+- Amazon Bedrock & AgentCore
+- Cloud Deployment & Infrastructure as Code
 
-## 🔗 Connect With Me
+## 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com
+[LinkedIn](https://www.linkedin.com/in/volodymyr-opolskyi-b78b7844a/) · [GitHub](https://github.com/vovaopolskyi)
